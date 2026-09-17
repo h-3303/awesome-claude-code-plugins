@@ -201,6 +201,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Audio & Media
 - [bibigpt-skill](https://github.com/JimmyLv/bibigpt-skill) - AI-powered video, audio & podcast summarization
+- [claude-music](https://github.com/h-3303/claude-music) - Import a streaming playlist export, match it against your local library via MusicBrainz, fetch the missing tracks through your own Nicotine+ (Soulseek) client with your approval, write an M3U, then tidy the library. Install: `/plugin marketplace add h-3303/claude-music` then `/plugin install claude-music@claude-music`
 
 ### Design UX
 - [brand-guardian](./plugins/brand-guardian)
